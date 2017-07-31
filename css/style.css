@@ -12,7 +12,7 @@ color:#000;
 }
 .clear{clear:both;}
 a{color:#0291d4; text-decoration:none;}
-p{text-align="justify-all"; text-justify="inter-word";}
+p{text-align:justify; text-justify:inter-word;}
 h1, h2, h3, h4, h5, h6{
 	font-family: 'Coustard', serif;
 	font-weight: normal;
