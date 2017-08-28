@@ -77,6 +77,11 @@ color:#22425e; font-size:14px; font-weight:bold; padding:10px 0 10px 15px; text-
 	margin-left: 3%;
 }
 
+.github{
+	width: 10%;
+	margin-left: 3%;
+	margin-top: 2%;
+}
 /*Form inputs */
 .green_button {
     float: left;
@@ -111,7 +116,7 @@ color:#22425e; font-size:14px; font-weight:bold; padding:10px 0 10px 15px; text-
     padding: 8px 15px;
     text-align: center;
     border: none;
-    text-shadow: 1px 1px #4c9021;
+    text-shadow: 1px 1px #c65c5c;
 }
 
 .footer{height:50px;background-color:#e4e3e0; border-top:1px #fff solid; line-height:50px; padding:0 0 0 20px; text-align:center;}
